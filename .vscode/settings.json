@@ -1,24 +1,21 @@
 {
     "files.associations": {
-        "stack": "cpp",
-        "ostream": "cpp",
         "iostream": "cpp",
-        "__node_handle": "cpp",
+        "ostream": "cpp",
+        "unordered_set": "cpp",
+        "string": "cpp",
+        "__bit_reference": "cpp",
+        "__hash_table": "cpp",
         "__split_buffer": "cpp",
+        "__tree": "cpp",
         "array": "cpp",
         "deque": "cpp",
+        "initializer_list": "cpp",
         "iterator": "cpp",
         "set": "cpp",
-        "string": "cpp",
         "string_view": "cpp",
         "unordered_map": "cpp",
         "vector": "cpp",
-        "__hash_table": "cpp",
-        "__tree": "cpp",
-        "bitset": "cpp",
-        "initializer_list": "cpp",
-        "utility": "cpp",
-        "iosfwd": "cpp",
-        "istream": "cpp"
+        "stack": "cpp"
     }
 }

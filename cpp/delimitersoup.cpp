@@ -24,6 +24,6 @@ int main(){
                 s.pop();
             }
         }
-    cout << "okay so far" << endl;
+    cout << "ok so far" << endl;
     return 0;
 }
